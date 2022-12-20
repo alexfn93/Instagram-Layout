@@ -35,7 +35,7 @@ Desenvolvi uma página inicial fictícia do Istagram.
 
 HTML-> Fiz os usos das tags tradicionais do HTML como: as tags 'divs' com os atributos de classe, tag de 'img' para inserir as imagens, tag 'a href' para inserir links, a tag 'p' para paragráfos e 'span' para colorir a parte de um texto.
 
-CSS-> Já no CSS usei os conceitos de flexbox para alinhas as tags 'divs', usei a media queries para dar resposividade a página. Também fiz uso do seletor 'nth-child()' para ajustar seu filho com o elemento pai. Utilizei também as propriedades mais habituias do CSS como: margin, padding, height, width, background-color, color entre outras.
+CSS-> Já no CSS usei os conceitos de flexbox para alinhas as tags 'divs', usei a media queries para dar resposividade a página. Também fiz uso do seletor 'nth-child()' para ajustar seu filho com o elemento pai. Utilizei também as propriedades mais habituais do CSS como: margin, padding, height, width, background-color, color entre outras.
 
 
 ## Linguagens, dependências e libs utilizadas :books:
