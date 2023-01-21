@@ -25,7 +25,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-Desenvolvi uma página inicial fictícia do Istagram.
+Desenvolvi uma página inicial fictícia do Instagram.
 
 </p>
 
