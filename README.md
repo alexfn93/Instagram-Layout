@@ -9,11 +9,11 @@
 
 <div>
 
-Link Website: <a herf="https://instagram-layout-theta.vercel.app/">Instagram</a>
+Link Website: <a href="https://instagram-layout-theta.vercel.app/">Instagram</a>
 
 
 </div>
-> Status do Projeto: :heavy_check_mark: Concluído
+Status do Projeto: :heavy_check_mark: Concluído
 
 ### Tópicos 
 
